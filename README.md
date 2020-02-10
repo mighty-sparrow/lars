@@ -1,3 +1,7 @@
+ > _**To view the final, contest entry, see [L.A.R.S.](https://www.instructables.com/id/LARS/) on the Instructables web site.**_
+ > Also, be sure to check out the other great entries of the [_Reuse 2019_](https://www.instructables.com/contest/reuse2019/) contest.
+ -----
+ 
 # Overview
 This project is made up of various models and assemblies. All together, they represent a recovery system suitable for a low-altitude water rocket. The rocket is made up of several sections, fabricated from 1.5 liter SmartWater bottles.
 
